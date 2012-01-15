@@ -1,4 +1,4 @@
 category: GNOME
-requires:
+requires: gnome-icon-theme hicolor-icon-theme
 sdesc: "Faenza icon theme for GNOME"
 ldesc: "Faenza icon theme for GNOME"

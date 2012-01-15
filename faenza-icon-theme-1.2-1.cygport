@@ -1,7 +1,8 @@
 DESCRIPTION="Faenza icon theme for GNOME"
 HOMEPAGE="http://code.google.com/p/faenza-icon-theme/"
-SRC_URI="http://faenza-icon-theme.googlecode.com/files/${PN}_${PV}.tar.gz"
-SRC_DIR=.
+#SRC_URI="http://faenza-icon-theme.googlecode.com/files/${PN}_${PV}.tar.gz"
+#SRC_DIR=.
+SRC_URI="http://ppa.launchpad.net/tiheum/equinox/ubuntu/pool/main/f/${PN}/${PN}_${PV}.tar.gz"
 
 src_compile() { :; }
 
